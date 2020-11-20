@@ -1,0 +1,49 @@
+html {
+    width: 60em;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family:Arial, Helvetica, sans-serif ;
+}
+h1 {
+    background-color:yellow;
+    color: black;
+    padding: 12px;
+    text-align: center;
+
+  }
+  h2{
+      font-weight: normal;
+      
+      font-style: oblique;
+      font-size: larger;
+      padding-top: 0cm;
+      text-align: left;
+
+  }
+  h3 {
+    background-color: orange;
+    font-size: larger;
+    color: white;
+    padding: 6px;
+    margin-left: 0cm;
+    text-align: left;
+}
+h4{
+    margin-left: 1cm;
+}
+ul {
+    margin-left: 0cm;
+    font-weight: 900;
+}
+
+div.img2 img {
+    width: 300px; 
+    height: 300px;
+    padding-left: 7cm;
+}
+img {
+   
+    padding-left: 7cm;
+}

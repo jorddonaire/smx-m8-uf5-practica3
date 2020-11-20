@@ -1,0 +1,39 @@
+html {
+    width: 60em;
+    margin: 0 auto;
+}
+
+p {
+    margin-left: 4cm;
+    line-height: 2cm;
+    font-style: oblique;
+    font-weight: 1000;
+}
+img {
+        width: 200px; height: 200px;
+        padding-left: 15cm;
+   
+     
+ }
+
+h1, h2, h3, h4, h5, h6 { font-family: helvetica; }
+
+
+
+h1 {
+    background-color: yellow;
+    color: black;
+    padding: 12px;
+    text-align: center;
+
+}
+
+h2 {
+    background-color: orange;
+    font-size: larger;
+    color: white;
+    padding: 4px;
+    margin-left: 2cm;
+    text-align: left;
+}
+
